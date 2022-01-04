@@ -11,6 +11,7 @@ import scipy
 # MA412 - PROBABILITY AND STATISTICS
 # FINAL PROJECT
 # Jose Nicolas Gachancipa
+# Spring 2018
 # 
 print('\n#####################\n')
 print('Embry-Riddle Aeronautical University')
